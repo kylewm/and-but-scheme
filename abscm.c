@@ -14,7 +14,7 @@ typedef struct object {
 } object;
 
 typedef struct fixnum {
-  long long value;
+  long value;
 } fixnum;
 
 typedef struct boolean {
